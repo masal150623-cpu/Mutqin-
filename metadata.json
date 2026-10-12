@@ -1,0 +1,7 @@
+{
+  "name": "Mutqin Ulul Albab",
+  "description": "Platform Monitoring dan Evaluasi Perkembangan Santri Al-Qur'an serta Backup Data Mandiri untuk Pondok Pesantren Ulul Albab Lubuklinggau",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
